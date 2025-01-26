@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Nuevas Clases">
+      <UniqueIdentifier>{cc70d3be-436c-43b4-a26e-32b515c8159d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Nuevas Clases">
+      <UniqueIdentifier>{9edd8fd7-825b-4946-8151-5e291aba4dde}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Entorno Virtual">
+      <UniqueIdentifier>{12064906-f484-444b-8547-ed86895f7765}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Entorno Virtual">
+      <UniqueIdentifier>{279f81ef-afb5-47a6-ae58-a79c43cb21cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Modelos">
+      <UniqueIdentifier>{7acef58d-f485-4a59-9b34-0e1ec5205a7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Modelos">
+      <UniqueIdentifier>{67793ce0-1a59-42e3-abf2-8cf5ac3be339}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Propiedades del objeto">
+      <UniqueIdentifier>{77eae110-7fee-4216-b9fe-9dee0c2a0b17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Propiedades del objeto">
+      <UniqueIdentifier>{ab1be667-0ec3-4813-a43b-73d4569a07c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Carga De Modelos">
+      <UniqueIdentifier>{f4066472-0c33-44de-be00-aac01cacdb5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Carga De Modelos">
+      <UniqueIdentifier>{d8688e0b-7226-4802-8485-2bb518214f16}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="programa_p2.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemigo1.cpp">
+      <Filter>Archivos de origen\Nuevas Clases</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemigo2.cpp">
+      <Filter>Archivos de origen\Nuevas Clases</Filter>
+    </ClCompile>
+    <ClCompile Include="Entidad.cpp">
+      <Filter>Archivos de origen\Nuevas Clases</Filter>
+    </ClCompile>
+    <ClCompile Include="Jugador.cpp">
+      <Filter>Archivos de origen\Nuevas Clases</Filter>
+    </ClCompile>
+    <ClCompile Include="Torreta.cpp">
+      <Filter>Archivos de origen\Nuevas Clases</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Archivos de origen\Entorno Virtual</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Archivos de origen\Entorno Virtual</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>Archivos de origen\Entorno Virtual</Filter>
+    </ClCompile>
+    <ClCompile Include="Text.cpp">
+      <Filter>Archivos de origen\Entorno Virtual</Filter>
+    </ClCompile>
+    <ClCompile Include="Cylinder.cpp">
+      <Filter>Archivos de origen\Modelos</Filter>
+    </ClCompile>
+    <ClCompile Include="Cuboid.cpp">
+      <Filter>Archivos de origen\Modelos</Filter>
+    </ClCompile>
+    <ClCompile Include="Cube.cpp">
+      <Filter>Archivos de origen\Modelos</Filter>
+    </ClCompile>
+    <ClCompile Include="Solid.cpp">
+      <Filter>Archivos de origen\Modelos</Filter>
+    </ClCompile>
+    <ClCompile Include="Sphere.cpp">
+      <Filter>Archivos de origen\Modelos</Filter>
+    </ClCompile>
+    <ClCompile Include="Color.cpp">
+      <Filter>Archivos de origen\Propiedades del objeto</Filter>
+    </ClCompile>
+    <ClCompile Include="Triangle.cpp">
+      <Filter>Archivos de origen\Propiedades del objeto</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector3D.cpp">
+      <Filter>Archivos de origen\Propiedades del objeto</Filter>
+    </ClCompile>
+    <ClCompile Include="ModelLoader.cpp">
+      <Filter>Archivos de origen\Carga De Modelos</Filter>
+    </ClCompile>
+    <ClCompile Include="Model.cpp">
+      <Filter>Archivos de origen\Carga De Modelos</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene0.cpp">
+      <Filter>Archivos de origen\Nuevas Clases</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene1.cpp">
+      <Filter>Archivos de origen\Nuevas Clases</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene2.cpp">
+      <Filter>Archivos de origen\Nuevas Clases</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene3.cpp">
+      <Filter>Archivos de origen\Nuevas Clases</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Enemigo1.h">
+      <Filter>Archivos de encabezado\Nuevas Clases</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemigo2.h">
+      <Filter>Archivos de encabezado\Nuevas Clases</Filter>
+    </ClInclude>
+    <ClInclude Include="Entidad.h">
+      <Filter>Archivos de encabezado\Nuevas Clases</Filter>
+    </ClInclude>
+    <ClInclude Include="Jugador.h">
+      <Filter>Archivos de encabezado\Nuevas Clases</Filter>
+    </ClInclude>
+    <ClInclude Include="Torreta.h">
+      <Filter>Archivos de encabezado\Nuevas Clases</Filter>
+    </ClInclude>
+    <ClInclude Include="Text.h">
+      <Filter>Archivos de encabezado\Entorno Virtual</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Archivos de encabezado\Entorno Virtual</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Archivos de encabezado\Entorno Virtual</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Archivos de encabezado\Entorno Virtual</Filter>
+    </ClInclude>
+    <ClInclude Include="Cube.h">
+      <Filter>Archivos de encabezado\Modelos</Filter>
+    </ClInclude>
+    <ClInclude Include="Cylinder.h">
+      <Filter>Archivos de encabezado\Modelos</Filter>
+    </ClInclude>
+    <ClInclude Include="Solid.h">
+      <Filter>Archivos de encabezado\Modelos</Filter>
+    </ClInclude>
+    <ClInclude Include="Sphere.h">
+      <Filter>Archivos de encabezado\Modelos</Filter>
+    </ClInclude>
+    <ClInclude Include="Cuboid.h">
+      <Filter>Archivos de encabezado\Modelos</Filter>
+    </ClInclude>
+    <ClInclude Include="Triangle.h">
+      <Filter>Archivos de encabezado\Propiedades del objeto</Filter>
+    </ClInclude>
+    <ClInclude Include="Color.h">
+      <Filter>Archivos de encabezado\Propiedades del objeto</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector3D.h">
+      <Filter>Archivos de encabezado\Propiedades del objeto</Filter>
+    </ClInclude>
+    <ClInclude Include="ModelLoader.h">
+      <Filter>Archivos de encabezado\Carga De Modelos</Filter>
+    </ClInclude>
+    <ClInclude Include="Model.h">
+      <Filter>Archivos de encabezado\Carga De Modelos</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene0.h">
+      <Filter>Archivos de encabezado\Nuevas Clases</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene1.h">
+      <Filter>Archivos de encabezado\Nuevas Clases</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene2.h">
+      <Filter>Archivos de encabezado\Nuevas Clases</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene3.h">
+      <Filter>Archivos de encabezado\Nuevas Clases</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+</Project>
